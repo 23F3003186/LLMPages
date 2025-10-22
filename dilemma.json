@@ -1,0 +1,5 @@
+{
+    "people": 2,
+    "case_1": {"swerve": false, "reason": "The two individuals are criminals, and the vehicle prioritizes the life of the innocent child over known threats."},
+    "case_2": {"swerve": true, "reason": "In this case, the vehicle swerves to avoid hitting the child, as the ethical choice is to protect the innocent."}
+}
